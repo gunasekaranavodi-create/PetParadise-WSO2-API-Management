@@ -25,8 +25,6 @@ Pet Paradise Animal Clinic API Management Platform built using WSO2 API Manager 
 - OAuth2 Key Generation
 - API Gateway Testing (200 OK response)
 
-## Screenshots
-(Add your screenshots here)
 
 ## Setup
 1. Start WSO2 API Manager
